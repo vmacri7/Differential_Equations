@@ -4,6 +4,8 @@
 ### Banana Ripeness Classification using a Convolutional Neural Network
 
 * <a href="https://colab.research.google.com/drive/1DcEiUwxg0ZCochtum6_-ab4HLPtfzXcu?usp=sharing">Banana Ripeness Colab Notebook<a>
+  
+* <a href="https://docs.google.com/presentation/d/1_dKFlhP87HMQ51JjRifakcnZYC1Kny07XoBXBjRrjrc/edit?usp=sharing">Banana Slides<a>
 
 ### 1.1.3 A Spring-Mass Model 
 
